@@ -15,3 +15,5 @@ print("Country:", country) #This line prints out the text "Country:" followed by
 
 print("Continent:", continent) #This line prints out the text "Continent:" followed by the value stored in the variable 'continent'.
 #Again, it prints the name of the continent where you live.
+
+

@@ -12,3 +12,4 @@ result = age * 2 #We Multiply the age entered by the user by 2 using the '*' ope
 print("Twice your age is:", result) #Finally, we print out the result to the user.
 #The line prints out the text "Twice your age is:" followed by the value stored in the variable 'result'. 
 #The 'print' function is used to display information to the user.
+

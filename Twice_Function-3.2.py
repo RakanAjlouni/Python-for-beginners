@@ -44,3 +44,4 @@ def do_four(f, value):
 #Testing Task 5
 #Call the do_four function with print_twice and 'spam' as arguments, which will print 'spam' four times.
 do_four(print_twice, 'spam')
+
