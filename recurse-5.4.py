@@ -64,4 +64,6 @@ def recurse(n, s):
         print(s)
     else:
         recurse(n-1, n+s)
-        
+
+#recurse(-1, 0)
+#recurse(1, 1)
